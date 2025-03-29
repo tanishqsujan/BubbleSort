@@ -9,7 +9,7 @@ def bubble_sort(arr):
         if not swapped:
             break
 
-# Taking user input for the array
+
 arr = []
 n = int(input("Enter the number of elements: "))
 for _ in range(n):
